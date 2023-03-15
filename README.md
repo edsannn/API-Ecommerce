@@ -24,7 +24,6 @@ This project is a backend application using SpringBoot, where we use some tools 
 - Maven
 
 ## Implantação em produção / Deployment in production
-- Back end: Heroku
 - Banco de dados: Postgresql
 
 ## Implantação de testes / Deployment tests
